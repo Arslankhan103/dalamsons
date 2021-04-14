@@ -4,6 +4,7 @@
  *
  * Contains the closing of the "wrapper" div and all content after.
  *
+ * something new
  * @package Hestia
  * @since Hestia 1.0
  */
